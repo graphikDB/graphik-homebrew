@@ -11,7 +11,7 @@ Official homebrew repository for graphikDB
 - Tap graphik-homebrew
 
     
-    brew tap graphik git@github.com:graphikDB/graphik-homebrew.git
+    brew tap graphik/tools git@github.com:graphikDB/graphik-homebrew.git
     
 
 - Install tools:
