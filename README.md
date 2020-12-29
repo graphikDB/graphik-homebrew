@@ -24,7 +24,9 @@ Official homebrew repository for graphikDB
 - Update tools:
 
     
-    brew update && brew upgrade $(tool-name)
+    brew update
+    
+    brew upgrade $(tool-name)
 
 
 
