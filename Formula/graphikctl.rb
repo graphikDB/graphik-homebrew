@@ -1,8 +1,8 @@
 class Graphikctl < Formula
-  version 'v0.1.0'
+  version 'v0.1.1'
   homepage 'https://github.com/graphikDB/graphikctl/blob/main/README.md'
-  url "https://github.com/graphikDB/graphikctl/releases/download/v0.1.0/graphikctl_darwin_amd64"
-  sha256 'ee54e7e8cf6b39a65ae73be6fdd6d7aa1adb1fda219ada7c947f901a05c1a819'
+  url "https://github.com/graphikDB/graphikctl/releases/download/v0.1.1/graphikctl_darwin_amd64"
+  sha256 'ff79139ef7bcf5130494ff60f55552233a69c90db46464cfe9dbe82ad54b012c'
   desc 'A command line utility for graphikDB'
 
   def install

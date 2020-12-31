@@ -28,7 +28,3 @@ Official homebrew repository for graphikDB
     
     brew upgrade $(tool-name)
 
-
-
-    
-    
