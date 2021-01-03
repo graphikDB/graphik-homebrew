@@ -19,6 +19,7 @@ Official homebrew repository for graphikDB
     
     brew install graphik
     brew install graphikctl
+    brew install gproxy
     
 
 - Update tools:
